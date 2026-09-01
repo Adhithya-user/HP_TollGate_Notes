@@ -1,0 +1,14 @@
+no claim on file
+
+effective=6/1/2026
+termination= no
+
+normal tfl=65
+
+fax=PO box 8830 Romilton DE  zipcode is 19899
+payer id(facility or professional)  (proffesional) =00570 
+call ref#=LBVI14076699
+
+Copilot said:
+
+Called ins Himark,S/W Deborah. Verified eligibility. No claim on file.  effe date 06/01/2026, no termination on file. Normal TFL is 65 days. Mailing address: P.O. Box 8830, Wilmington, DE 19899. Professional payer ID: 00570. Call ref#: LBVI14076699.

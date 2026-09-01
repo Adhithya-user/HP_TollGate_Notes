@@ -1,0 +1,53 @@
+claim paid
+npi 1073908943
+clla 6034848987 direct claim 
+last name:adam
+provider name
+PK3135F mem id
+mem dob 3/18/1995
+dos 5/24/2026
+mem 52323443 id
+mem Dora laura
+ 4/5/1997 dob (medicare specialist)
+
+check status of claim
+npi 1073908943
+last mike 6034848987 direct claim  
+provider name alavudin shara
+general claim status
+
+Adam 
+dos 21/5
+342 doll billamnt(not following upon claim)
+202185114105 claim id claim received July 4/2026
+120 paid amount
+EFt no: 8237
+issued 7/8/2026
+bulk 
+4637.41
+no member responsible and is claim fully paid
+7\8/2026 paid 
+call ref 079302338
+1982315684
+pro ashok dube 
+gen claim st
+523009534
+
+one more check different provider different member
+npi 1982813465 name spell 
+603484987
+ provider name :Ashok dube  general status
+meme id:523009534
+mem name Dora laura 15/4/1937
+member managed long term care active 9/1/2018
+dos 6/29
+162 doll tota billed amount
+cl m0107042630692
+6/29/2026
+7/4 cl rec
+60 calender date 
+cal ref 07902510
+Stacib last initial b
+
+
+

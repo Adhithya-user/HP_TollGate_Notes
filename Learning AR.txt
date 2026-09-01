@@ -1,0 +1,24 @@
+1.carrier log-- shift +F5
+2.cash charge,coverage charge,EOB--F5
+3.claim Rebill(ins rebill)--shift+F7&F9
+4.To remove or add action code -- shift+F8
+5.Claim Notes--F10,F6,F4  (After F4 have proper tracker code and closed the notes)(tracker code -- it is used for your notes refer by others using tracker code)
+6.Patient Info-- F2
+7.Provider Info -- F4
+8. Group Provider Info -- F2
+CCFL- corrected claim filing limit
+
+
+
+before we put in 
+bleb div
+
+
+F12--Back
+EFT-- Shift+F3
+Mem ID--Shift+F4
+
+
+
+
+
